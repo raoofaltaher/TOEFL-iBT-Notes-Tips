@@ -377,3 +377,416 @@ Whether you're aiming for a perfect score or just need a clear roadmap to succee
 
 ---
 
+# Listening Section Tips and Notes
+
+## 1. Identify Listening Question Types
+- Fine-tune the way to think while finding the solution to the question/problem.
+- **Types of Questions**:
+  - Gist content
+  - Gist purpose
+  - Detail question
+  - Attitude question
+  - Functionality question
+  - Inference question
+  - Organization question
+  - Connecting content
+
+---
+
+## 2. Two Listening Types
+- **Campus Conversation**:
+  - Often includes conversations between students and campus staff or professors.
+  - Sometimes replaced by a letter from a student or professor.
+- **Academic Lecture**:
+  - Involves academic topics and concepts delivered by a professor.
+
+---
+
+## 3. Find the Main Purpose
+- **Key Focus**: Identify the main topic or purpose of the passage, conversation, or lecture.
+- **Approach**:
+  - Listen to the entire passage to understand the topic.
+  - The main idea often appears at the beginning but may shift during the conversation or lecture.
+  - Avoid being misled by an initial stated purpose that changes as the passage progresses.
+- **Common Question**: "What is the main purpose of the conversation/lecture?"
+
+---
+
+## 4. Take Significant Notes Only
+- Focus on understanding first; take notes second.
+- Avoid excessive note-taking—prioritize key points and significant meanings.
+
+---
+
+## 5. Use Shortcuts in Notes
+- Abbreviate words and phrases to save time while note-taking.
+
+---
+
+## 6. Be an Active Listener
+- **What it Means**:
+  - Have specific goals while listening.
+  - Focus on identifying key points, such as:
+    - The student’s problem (Campus Conversation).
+    - The professor’s main topic and key ideas (Lecture Listening).
+
+---
+
+## Campus Conversation Notes
+
+### 1. Identify Key Elements
+- What is the student’s problem?
+- What solution does the campus staff or professor propose?
+- How is the problem discussed?
+- Does the student accept or decline the solution?
+
+### 2. Goal
+- Focus on the above four points to stay engaged and actively listen.
+
+---
+
+## Lecture Listening Notes
+
+### 1. Understand First, Then Take Notes
+- Be an active listener, focus on goals while listening:
+  - What is the main topic or idea?
+  - How does the professor define the topic?
+  - What elaboration or examples does the professor provide?
+  - What does the professor want the students to learn or understand by the end?
+
+### 2. Take Key Notes on the Following
+- **Class Topic**: Identify the subject (e.g., history, biology, psychology).
+- **Introduction**: Key points from the first minute, including the topic and its definition.
+- **Subtopics**: Examples, illustrations, and ideas that support the main topic.
+
+### 3. Rhetorical Questions
+- Pay attention to questions the professor asks but does not answer—these often highlight important points.
+
+---
+
+## Lecture Structure
+
+### 1. Announcement of Class Name
+- Example: “Listen to a lecture in a psychology class.”
+
+### 2. Introduction (First 1-2 Minutes)
+- Background information, Topic, and Definition.
+- Identification of the main topic or idea.
+
+### 3. Details and Examples
+- Subtopics that elaborate on the main idea provided by the professor.
+
+### 4. End of Lecture
+- Ask yourself, "What does the professor want the students to understand?"
+
+---
+
+## Improving Focus During Listening (5-6 Minutes)
+
+### 1. Control Distractions
+- Focus only on the screen. Treat your screen as your entire world during the test.
+
+### 2. Engage Your Mindset
+- Think of the lecture as an exciting story or fascinating topic to maintain interest.
+
+### 3. Active Listening
+- Have clear goals before and during listening.
+- Tune your brain to focus on the specific question or part (e.g., main topic, solutions, or structure).
+
+---
+
+## Listening Question Types & Strategies
+
+### 1. Gist-Content Questions
+- **What it Tests**: Understanding the main idea or overall content of the lecture or conversation.
+- **How to Identify**:
+  - Typically the first question after the audio.
+  - Common phrasing includes:
+    - "What is the lecture mainly about?"
+    - "What is the main topic of the conversation?"
+    - "What are the speakers mainly discussing?"
+- **How to Solve**:
+  - Focus on the big picture rather than specific details.
+  - Pay attention to the opening sentences and how the topic is developed.
+  - Avoid choices that focus on minor details or tangential topics.
+
+---
+
+### 2. Gist-Purpose Questions
+- **What it Tests**: Understanding the speaker's primary purpose or intent.
+- **How to Identify**:
+  - Common phrasing includes:
+    - "Why does the student visit the professor?"
+    - "Why does the professor talk about [topic]?"
+    - "What is the purpose of the conversation/lecture?"
+- **How to Solve**:
+  - Listen for clues in tone or expressions that indicate intent (e.g., "I’m here to ask...").
+  - Pay attention to the context of the conversation (e.g., academic help, administrative issue, etc.).
+  - Avoid choices that focus on irrelevant details.
+
+---
+
+### 3. Detail Questions
+- **What it Tests**: Understanding specific facts or pieces of information mentioned in the audio.
+- **How to Identify**:
+  - Common phrasing includes:
+    - "According to the professor, what is true about...?"
+    - "What does the student say about...?"
+    - "What example does the professor use to explain...?"
+- **How to Solve**:
+  - Take notes during the audio to capture key details.
+  - Use your notes to locate the specific information quickly.
+  - Avoid answers that are implied rather than directly stated.
+
+---
+
+### 4. Inference Questions
+- **What it Tests**: Understanding implications or making logical conclusions based on the information provided.
+- **How to Identify**:
+  - Common phrasing includes:
+    - "What can be inferred about...?"
+    - "What does the speaker imply when they say...?"
+    - "What does the student mean by mentioning...?"
+- **How to Solve**:
+  - Look for context clues in tone, wording, or examples.
+  - Avoid answers that are overly broad or unsupported by the audio.
+  - Make logical deductions based on what is explicitly stated.
+
+---
+
+### 5. Attitude Questions
+- **What it Tests**: Understanding the speaker’s feelings, tone, or attitude toward a topic.
+- **How to Identify**:
+  - Common phrasing includes:
+    - "What is the professor’s attitude toward...?"
+    - "How does the student feel about...?"
+    - "What does the speaker’s tone suggest about their opinion?"
+- **How to Solve**:
+  - Pay attention to the tone of voice (e.g., excited, skeptical, annoyed).
+  - Look for verbal clues like qualifiers ("It’s fascinating" vs. "It’s somewhat interesting").
+  - Eliminate choices that don’t align with the tone or language used.
+
+---
+
+### 6. Function Questions
+- **What it Tests**: Understanding why the speaker says something or the function of a specific statement.
+- **How to Identify**:
+  - Common phrasing includes:
+    - "Why does the professor say this: [audio excerpt]?"
+    - "What does the speaker mean when they say this: [audio excerpt]?"
+    - "What is the purpose of this statement?"
+- **How to Solve**:
+  - Identify the context in which the statement was made.
+  - Determine whether the statement serves to explain, clarify, correct, give an example, or transition.
+  - Avoid choices that focus on the literal meaning without considering the intent.
+
+---
+
+### 7. Organization Questions
+- **What it Tests**: Understanding how the lecture or conversation is structured.
+- **How to Identify**:
+  - Common phrasing includes:
+    - "How does the professor organize the information about...?"
+    - "What is the relationship between X and Y as described in the lecture?"
+    - "How does the speaker develop their argument?"
+- **How to Solve**:
+  - Take notes on the flow of ideas (e.g., introduction, examples, comparison, conclusion).
+  - Look for signposts in the lecture (e.g., "First, let’s consider..." or "To summarize...").
+  - Eliminate choices that misrepresent the sequence or logic of ideas.
+
+---
+
+### 8. Connecting Content Questions
+- **What it Tests**: Identifying relationships or connections between pieces of information.
+- **How to Identify**:
+  - These often involve a diagram, chart, or matching task.
+  - Common phrasing includes:
+    - "What is the relationship between X and Y?"
+    - "How do the two processes described in the lecture differ?"
+    - "Match each example with the concept it illustrates."
+- **How to Solve**:
+  - Use your notes to map out relationships (e.g., cause-effect, comparison, steps in a process).
+  - Pay attention to examples and explanations given in the audio.
+  - Double-check that your selected relationships align with the lecture's content.
+
+---
+
+## General Strategies for Each Question Type
+
+### 1. Gist-Content and Gist-Purpose
+- Think broadly about the main idea and intent.
+- Focus on what the lecture or conversation is mostly about.
+
+### 2. Detail
+- Use your notes to find specific information.
+- Avoid choices that add information not mentioned in the audio.
+
+### 3. Inference
+- Think beyond the explicit details to understand what is implied.
+- Avoid extreme interpretations or answers unsupported by the audio.
+
+### 4. Attitude
+- Listen for tone and choice of words.
+- Eliminate options that don’t match the speaker’s mood or opinion.
+
+### 5. Function
+- Consider the context of the statement.
+- Ask yourself why the speaker chose those words at that point.
+
+### 6. Organization
+- Note the structure and transitions during the lecture.
+- Look for how the speaker builds or connects ideas.
+
+### 7. Connecting Content
+- Map relationships during the audio or review connections from notes.
+- Match examples, processes, or concepts based on the professor’s explanations.
+
+---
+
+# Writing Section Tips and Notes
+
+## The writing section consists of two parts:
+1. **Integrated Writing Essay**
+2. **Writing for Academic Discussion**
+
+---
+
+## 1. Integrated Writing Essay
+
+### Question Types
+1. Argument Style (e.g., "Why self-driving cars are safer?")
+2. Problem and Solution
+3. Speculations/Educated Guesses (e.g., "How did dinosaurs become extinct?")
+
+---
+
+### Format
+1. **Reading Passage**: 3 minutes to read and take notes.
+2. **Listening Lecture**: 2-3 minutes to listen and take notes (usually disagrees with the reading).
+3. **Writing Time**: 20 minutes to type your essay.
+   - The reading passage will remain visible during writing.
+
+---
+
+### Note-Taking Strategy
+1. Think like a reporter.
+2. Identify the author's opinion (from the reading passage) and the three supporting reasons.
+   - **Notes Structure**:
+     - **S** (Stance): Author's opinion
+     - **R1**: Reason 1
+     - **R2**: Reason 2
+     - **R3**: Reason 3
+3. Identify the counter, Lecturer’s opinion (from the Listening lecture), and the three supporting reasons.
+   - **Notes Structure**:
+     - **S** (Stance): Lecturer's opinion
+     - **R1**: Reason 1
+     - **R2**: Reason 2
+     - **R3**: Reason 3
+
+---
+
+### Writing Structure
+- **Introduction**:
+  1. Intro to General Topic and Definition.
+  2. Intro to Author’s opinion on the topic.
+  3. Intro to Speaker’s (lecture) opinion on the topic.
+- **Body Paragraphs**:
+  - **Body 1**:
+    - Author’s Reason 1
+    - Speaker’s Reason 1 (agree/disagree) with details and explanation.
+  - **Body 2**:
+    - Author’s Reason 2
+    - Speaker’s Reason 2 (agree/disagree) with details and explanation.
+  - **Body 3**:
+    - Author’s Reason 3
+    - Speaker’s Reason 3 (agree/disagree) with details and explanation.
+- **Conclusion**:
+  - Summarize the main ideas and perspectives.
+
+---
+
+### Tips for Writing
+1. Use a template to save time and stay organized.
+2. Write 250-300 words minimum.
+3. Emphasize content from the listening passage (as the reading passage is available during writing).
+4. Save time for editing:
+   - Check spelling, grammar, spacing, and capitalization.
+   - Review your introduction and structure.
+
+---
+
+### Template: QUESTION 1 (Integrated Essay)
+
+| **Paragraph**   | **Structure**                                                             | **Template**                                                                                                                                                        |
+|------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Introduction** | 1st – Introduce the general topic<br>2nd – Introduce the author’s opinion on the topic<br>3rd – Introduce the counter opinion from the listening | - "The reading and the lecture are about …"<br>- "While the author of the article believes that __, the lecturer casts doubt on the statements in the article."<br>- "He explains __ and challenges each of the writer’s points." |
+| **Body Paragraph 1** | 1st – Introduce the author’s first point<br>2nd – State that the speaker in the listening disagrees<br>3rd – Explain why the lecturer disagrees | - "First, the article posits …"<br>- "The lecturer, however, disagrees with this viewpoint. He points out …"<br>- "Additionally, he goes on to say that …"                                          |
+| **Body Paragraph 2** | 1st – Introduce the author’s second point<br>2nd – State that the speaker in the listening disagrees<br>3rd – Explain why the lecturer disagrees | - "Secondly, the author notes …"<br>- "The lecturer believes there are flaws in the writer’s argument."<br>- "The speaker holds …"                                                                    |
+| **Body Paragraph 3** | 1st – Introduce the author’s third point<br>2nd – State that the speaker in the listening disagrees<br>3rd – Explain why the lecturer disagrees | - "Another reason why the author feels … is …"<br>- "The professor in the listening passage is doubtful that this is accurate. In contrast, the lecturer’s stance is …"<br>- "He suggests …"           |
+| **Conclusion (optional)** | Restate the viewpoints of the author and lecturer                                         | - "To sum up, both the writer and professor hold conflicting views about …"<br>- "It’s clear that they will have trouble finding common ground on this issue."                                          |
+
+---
+
+## 2. Writing for Academic Discussion
+
+### Objective
+- Contribute to a classroom-style discussion by adding new ideas or opinions without repeating others.
+
+---
+
+### Format
+1. Read the academic discussion prompt and responses from other students.
+2. You have 10 minutes to read the question and write your response.
+
+---
+
+### Steps to Answer
+1. **Quickly Identify**:
+   - The Class Name (e.g., biology, psychology).
+   - The professor’s Question or Topic (usually at the end of their paragraph).
+   - Scan key points from Student 1 and Student 2.
+2. **Write Your Response**:
+   - State your opinion on the topic.
+   - Provide a specific reason for your opinion, supported by examples and details.
+   - Acknowledge and respond to one of the students' points (agree/disagree).
+   - Summarize your main point of view.
+3. **Editing**:
+   - Check spelling, grammar, and punctuation.
+   - Ensure proper capitalization and formatting.
+
+---
+
+### Tips for Writing
+1. Do not repeat points from Student 1 or Student 2; focus on adding new insights.
+2. Time management is crucial—start writing immediately after scanning the paragraphs.
+3. Be concise but provide clear, relevant examples.
+4. Use a template to stay organized.
+
+---
+
+### Response Template
+
+1. **My Opinion**:
+   - "In my opinion, [state opinion]."
+   - Provide a specific reason and example to support your opinion.
+2. **Acknowledge Others’ Views**:
+   - "I agree/disagree with [Student 1/Student 2] because [reason]."
+   - Provide additional examples or explanations.
+3. **Summarize My View**:
+   - "In summary, I believe [restate opinion] because [key reason]."
+4. **Editing**:
+   - Final review to ensure clarity, grammar, and proper formatting.
+
+---
+
+### Template: QUESTION 2 (Writing for an Academic Discussion)
+
+| **Structure**       | **Template**                                                                                                                                                                                                                                     | **Example**                                                                                                                                                                                          |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **State your general opinion on the topic** | "In my opinion, (general restatement of the topic)."                                                                                                                                                                             | "In my opinion, globalization is a positive force in the world today."                                                                                                                               |
+| **State a specific reason for your opinion and an example** | "My personal belief is that (specific reason). For example, (insert relevant example)."                                                                                                                                               | "My personal belief is that when nations interact, it leads to less suffering. For example, people who suffer from natural catastrophes can import goods and services."                                |
+| **Acknowledge the point of view of one of the speakers in the conversation. Explain why you agree or disagree with reasons/examples** | "I understand ___’s concern about ___, but I believe ___ (another critical point). I totally (agree/disagree) with ___ about ___ and would like to add ___ (reason/example)."                                                  | "I understand Alex’s concern over cultural homogenization, but I believe countries naturally share many cultural elements across the globe. Another critical point is that our very diet is often the result of international trade partnerships." |
+| **Summarize the main point of your post** | "Therefore, I conclude that (restate your position)."                                                                                                                                                                           | "Therefore, I conclude that international trade and travel are not possible in a world without globalization, which is why I believe it is crucial to maintain an open global policy for a safer world with a higher standard of living." |
+
+
+
