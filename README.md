@@ -9,8 +9,6 @@ This repository contains a meticulously crafted guide for the TOEFL iBT test, co
 - Speaking and writing templates for structured and effective responses.
 - Practical examples and insights to maximize your score.
 
-Whether you're aiming for a perfect score or just need a clear roadmap to succeed, this guide provides everything you need to excel in the TOEFL iBT. Ideal for self-learners, educators, and anyone preparing for the test.
-
 ---
 
 ## Reading Section Tips and Notes
@@ -297,6 +295,18 @@ Whether you're aiming for a perfect score or just need a clear roadmap to succee
 | The man/woman in the conversation… | Transition to the conversation, state one speaker’s opinion, provide one specific reason | 16-35 seconds |
 | He/She also mentions… Secondly, he/she explains… | State the second specific reason for the speaker’s opinion | 36-54 seconds |
 | In conclusion… So, to sum up… | Restate the speaker’s stance (optional) | 55-60 seconds |
+
+---
+
+### Question 2 Template: Letter
+
+| **Template** | **Content** | **Time** |
+|--------------|-------------|----------|
+| - The letter proposes a change on campus. In particular... <br> - The letter proposes... <br> - It looks like one student would like to change the university campus. You see... | - Introduce the letter <br> - State the proposal <br> - Provide reason(s) for the proposal | **0 - 15 seconds** |
+| - The man/woman in the conversation loves/hates the idea. He/She starts off by saying... <br> - The man/woman in the conversation is in favor of/against this idea. To start, he/she says... <br> - The man/woman in the conversation wholeheartedly supports / completely opposes this idea because... | - Transition to the conversation <br> - State one speaker’s opinion <br> - Provide one specific reason | **16 - 35 seconds** |
+| - He/She also mentions... <br> - Secondly, he/she explains... <br> - He/She goes on to say... <br> - Secondly, the man supports/opposes this idea because... | - State the second specific reason for the speaker’s opinion | **36 - 54 seconds** |
+| - In conclusion <br> - So, to sum up <br> - As you can see <br> - So, that’s why <br> - To make a long story short | - Restate the speaker’s stance (optional) | **55 - 60 seconds** |
+
 
 ---
 
@@ -725,7 +735,23 @@ Whether you're aiming for a perfect score or just need a clear roadmap to succee
 | **Body Paragraph 3** | 1st – Introduce the author’s third point<br>2nd – State that the speaker in the listening disagrees<br>3rd – Explain why the lecturer disagrees | - "Another reason why the author feels … is …"<br>- "The professor in the listening passage is doubtful that this is accurate. In contrast, the lecturer’s stance is …"<br>- "He suggests …"           |
 | **Conclusion (optional)** | Restate the viewpoints of the author and lecturer                                         | - "To sum up, both the writer and professor hold conflicting views about …"<br>- "It’s clear that they will have trouble finding common ground on this issue."                                          |
 
+
 ---
+
+
+### Template: QUESTION 1 (Integrated Essay)
+
+| **Paragraph**        | **Structure**                                                                                              | **Template**                                                                                                                                                                 |
+|-----------------------|----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Introduction**      | 1st – Introduce the general topic<br>2nd – Introduce the author’s opinion on the topic<br>3rd – Introduce the counter opinion from the listening | - “Recently, there has been a debate as to whether …”<br>- “The writer puts forth the idea …”<br>- “In the listening passage, the lecturer is quick to point out that there are serious flaws in the writer’s claims.”<br>- “In fact, the professor believes … and addresses, in detail, the trouble with each point made in the reading text.” |
+| **Body Paragraph 1**  | 1st – Introduce the author’s first point<br>2nd – State that the speaker in the listening disagrees<br>3rd – Explain why the lecturer disagrees | - “First and foremost, the author of the reading states …”<br>- “Some professionals in the same field, however, stand in firm opposition to this claim. In the listening, for example, the professor states …”<br>- “He goes on to say that …” |
+| **Body Paragraph 2**  | 1st – Introduce the author’s second point<br>2nd – State that the speaker in the listening disagrees<br>3rd – Explain why the lecturer disagrees | - “One group of scholars, represented by the writer, thinks …”<br>- “Still, not all experts in the field believe this is accurate. The speaker specifically addresses this point when he states …”                                                |
+| **Body Paragraph 3**  | 1st – Introduce the author’s third point<br>2nd – State that the speaker in the listening disagrees<br>3rd – Explain why the lecturer disagrees | - “Finally, the author brings his argument to a close by suggesting that …”<br>- “The lecturer takes issue with this claim and contends that …”                                                                   |
+| **Conclusion (optional)** | Restate the viewpoints of the author and lecturer                                                      | - “To sum up, both the writer and professor hold conflicting views about …”<br>- “It’s clear that they will have trouble finding common ground on this issue.”                                                   |
+
+
+---
+
 
 ## 2. Writing for Academic Discussion
 
@@ -788,5 +814,13 @@ Whether you're aiming for a perfect score or just need a clear roadmap to succee
 | **Acknowledge the point of view of one of the speakers in the conversation. Explain why you agree or disagree with reasons/examples** | "I understand ___’s concern about ___, but I believe ___ (another critical point). I totally (agree/disagree) with ___ about ___ and would like to add ___ (reason/example)."                                                  | "I understand Alex’s concern over cultural homogenization, but I believe countries naturally share many cultural elements across the globe. Another critical point is that our very diet is often the result of international trade partnerships." |
 | **Summarize the main point of your post** | "Therefore, I conclude that (restate your position)."                                                                                                                                                                           | "Therefore, I conclude that international trade and travel are not possible in a world without globalization, which is why I believe it is crucial to maintain an open global policy for a safer world with a higher standard of living." |
 
+---
 
+### Template: QUESTION 2 (Writing for an Academic Discussion)
 
+| **Structure** | **Template**                                                                                                                                                                       | **Example**                                                                                                                                                                                        |
+|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **1. State your general opinion on the topic** | If I were forced to choose, I would definitely say (general opinion on the topic).                                                                                                                | If I were forced to choose, I would definitely say globalization is a positive force in the world today.                                                                                           |
+| **2. State a specific reason for your opinion and an example** | My personal belief is that (first specific reason). I have to admit that my viewpoint has been profoundly influenced by my own personal experience. For example, ...                                  | My personal belief is that when nations interact together, it leads to less suffering. I have been profoundly influenced by my own personal experience. For example, people who suffer from natural catastrophes can import goods and services to help mitigate their losses and recover quickly. Citizens of a war-torn or famine-struck area can flee to neighboring countries for shelter. |
+| **3. Acknowledge the point of view of one of the speakers in the conversation. Explain why you agree or disagree with reasons/examples** | I understand ___’s concern over ___, but I believe ___ (another critical point). I totally (agree/disagree) with ___ about ___, and I would like to add ___ (reason/example).                     | I understand Alex’s concern over cultural homogenization, but I believe he misses another critical point. Much of the food found in grocery stores around the world is imported. Our very diet is due to international trade partnerships and alliances forged over the last half of the 20th century. |
+| **4. Summarize the main point of your post** | In light of the reasons mentioned, I strongly believe (restated main point).                                                                                                                       | In light of the reasons mentioned, I strongly believe that continuing current global policies is essential for a safer world with a higher standard of living.                                     |
